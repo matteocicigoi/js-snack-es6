@@ -9,8 +9,8 @@ function arrayMinMax(array, min, max){
     });
 }
 
-const a = [0, 1, 2, 3, 4, 5, 6, 7 ,8 ,9];
+const valori = [0, 1, 2, 3, 4, 5, 6, 7 ,8 ,9];
 
-const b = arrayMinMax(a, 2, 6);
+const valoriFiltrati = arrayMinMax(valori, 2, 6);
 
-console.log(b);
+console.log(valoriFiltrati);
