@@ -48,6 +48,5 @@ function arrayMinMax(array, min, max){
     - filter array 
         - se l'indice è >= a min e <= a max
             - restituisce true
-        - restituisce false
 - array valori
 - array valoriFiltrati con arrayMinMax
