@@ -32,7 +32,7 @@ const squadre = [
 - array squadre
 - map array squadre
     - punti generati da 0 a 100
-    - falli generati da 0 a 100
+    - falli generati da 0 a 15
 - array squadre2 solo con i nomi e falli
 - output in console
 
